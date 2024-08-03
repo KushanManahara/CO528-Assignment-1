@@ -149,12 +149,3 @@ Logging is implemented for each endpoint to document actions such as fetching, c
 ## Contact
 
 For any inquiries, please contact [Kushan Manahara](https://github.com/KushanManahara).
-```
-
-### Key Additions:
-
-1. **Creating and activating a virtual environment**:
-   - Instructions have been added for both Windows and macOS/Linux platforms to set up a virtual environment.
-
-2. **Dependencies Installation**:
-   - A step has been added for installing dependencies using the `requirements.txt` file after activating the virtual environment.
