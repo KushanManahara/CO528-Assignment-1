@@ -26,13 +26,25 @@ This repository contains the implementation of a simple REST API for managing a 
    cd CO528-Assignment-1
    ```
 
-2. **Install dependencies**:
+2. **Create and activate a virtual environment**:
+
+   ```bash
+   # On Windows
+   python -m venv venv
+   venv\Scripts\activate
+
+   # On macOS/Linux
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+3. **Install dependencies**:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the application**:
+4. **Run the application**:
 
    ```bash
    python app.py
@@ -137,3 +149,12 @@ Logging is implemented for each endpoint to document actions such as fetching, c
 ## Contact
 
 For any inquiries, please contact [Kushan Manahara](https://github.com/KushanManahara).
+```
+
+### Key Additions:
+
+1. **Creating and activating a virtual environment**:
+   - Instructions have been added for both Windows and macOS/Linux platforms to set up a virtual environment.
+
+2. **Dependencies Installation**:
+   - A step has been added for installing dependencies using the `requirements.txt` file after activating the virtual environment.
