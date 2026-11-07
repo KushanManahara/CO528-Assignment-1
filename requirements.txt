@@ -202,7 +202,7 @@ overrides==7.7.0
 ovs==2.17.9
 packaging==23.2
 pandas==2.2.2
-paramiko==2.9.3
+paramiko==5.0.0
 parso==0.8.4
 passlib==1.7.4
 pbr==6.0.0
