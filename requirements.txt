@@ -220,7 +220,7 @@ pulsar-client==3.5.0
 pure-eval==0.2.2
 py==1.11.0
 pyarrow==16.0.0
-pyasn1==0.4.8
+pyasn1==0.6.5
 pyasn1-modules==0.2.1
 pycairo==1.20.1
 pycparser==2.22
