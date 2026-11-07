@@ -174,7 +174,7 @@ nest-asyncio==1.6.0
 netaddr==1.2.1
 netifaces==0.11.0
 networkx==3.3
-nltk==3.8.1
+nltk==3.10.4
 nodeenv==1.8.0
 numpy==1.26.4
 oauth2client==4.1.3
