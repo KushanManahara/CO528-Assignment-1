@@ -306,7 +306,7 @@ tiktoken==0.5.2
 tinyrpc==1.1.7
 tokenizers==0.19.1
 tomli==2.0.1
-tornado==6.4
+tornado==6.6.1
 traitlets==5.14.3
 trio==0.25.0
 trio-websocket==0.11.1
