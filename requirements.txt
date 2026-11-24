@@ -338,5 +338,5 @@ xdg==5
 xkit==0.0.0
 yarl==1.9.4
 youtube-transcript-api==0.6.2
-yt-dlp==2023.12.30
+yt-dlp==2026.7.4
 zipp==1.0.0
