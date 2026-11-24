@@ -254,7 +254,7 @@ pytest==8.2.0
 python-apt==2.4.0+ubuntu3
 python-dateutil==2.9.0.post0
 python-debian==0.1.43+ubuntu1.1
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 python-multipart==0.0.9
 pytube==15.0.0
 pytz==2022.1
