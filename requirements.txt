@@ -219,7 +219,7 @@ ptyprocess==0.7.0
 pulsar-client==3.5.0
 pure-eval==0.2.2
 py==1.11.0
-pyarrow==16.0.0
+pyarrow==23.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.1
 pycairo==1.20.1
