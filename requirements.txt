@@ -129,7 +129,7 @@ langchain-community==0.0.36
 langchain-core==0.1.49
 langchain-google-genai==1.0.3
 langchain-openai==0.0.5
-langchain-text-splitters==0.0.1
+langchain-text-splitters==1.1.2
 langsmith==0.1.53
 language-selector==0.1
 launchpadlib==1.10.16
