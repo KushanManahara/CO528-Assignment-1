@@ -130,7 +130,7 @@ langchain-core==0.1.49
 langchain-google-genai==1.0.3
 langchain-openai==0.0.5
 langchain-text-splitters==0.0.1
-langsmith==0.1.53
+langsmith==0.8.18
 language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
