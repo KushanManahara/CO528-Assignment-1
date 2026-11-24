@@ -40,7 +40,7 @@ contextlib2==21.6.0
 contourpy==1.2.1
 crewai==0.28.8
 crewai-tools==0.1.7
-cryptography==3.4.8
+cryptography==50.0.0
 cupshelpers==1.0
 cycler==0.12.1
 dataclasses-json==0.6.5
